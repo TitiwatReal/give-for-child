@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Mitr:wght@200;400;600&display=swap');
+
+@font-face {
+  font-family: 'Mitr';
+  src: url(./Fonts/Mitr-Regular.ttf);
+  src: url(./Fonts/Mitr-Bold.ttf);
+  src: url(./Fonts/Mitr-ExtraLight.ttf);
+  src: url(./Fonts/Mitr-Light.ttf);
+  src: url(./Fonts/Mitr-Medium.ttf);
+  src: url(./Fonts/Mitr-SemiBold.ttf);
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, 'Mitr';
+  /* font-family: -apple-system, BlinkMacSystemFont, 'Mitr', sans-serif; */
+
+  /* font-family: "Mitr", sans-serif; */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

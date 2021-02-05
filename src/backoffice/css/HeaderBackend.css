@@ -1,0 +1,25 @@
+.logo img {
+  margin: 0 auto;
+  width: 20%;
+}
+.all-font {
+  font-family: 'mitr';
+}
+
+p:hover,
+h1:hover,
+a:hover {
+  background-color: '#367680';
+}
+
+.title {
+  margin-right: 14px;
+}
+
+/* :hover {
+  background: "#efefef"
+}
+
+:last-child {
+  border: "solid 1px #cccccc"
+} */

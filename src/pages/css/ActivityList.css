@@ -1,0 +1,28 @@
+.all-font {
+  font-family: 'mitr';
+}
+.head-card {
+  min-height: 250px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.buttonC {
+  width: 180px;
+  height: 40px;
+  background-color: #ebebeb;
+  border: none;
+  color: #377780;
+}
+.card-deck .card {
+  width: 31.3%;
+  margin: 20px 1% 0;
+  flex: none;
+}
+@media (max-width: 900px) {
+  .card-deck .card {
+    width: 100%;
+    flex: none;
+    margin: 20px 0 0;
+  }
+}

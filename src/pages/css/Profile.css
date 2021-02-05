@@ -1,0 +1,23 @@
+.all-font {
+  font-family: 'mitr';
+}
+
+.profile img {
+  width: 210px;
+  height: 210px;
+  border-radius: 50%;
+}
+.list-group-item,
+.nav-tabs .nav-item {
+  text-align: center;
+  width: 33%;
+}
+.name-profile {
+  font-size: 20px;
+  font-weight: 400;
+}
+.history {
+  font-size: 18px;
+  color: gray;
+  margin-top: 10px;
+}

@@ -1,0 +1,32 @@
+.all-font {
+  font-family: 'mitr';
+}
+.border-test {
+  width: 100%;
+  height: 40px;
+  background-color: #fff;
+  border: none;
+  border-bottom: 1px solid #ccc;
+  font-size: 13px;
+  font-weight: 300;
+  padding: 0;
+  border-radius: 0;
+}
+.text-lable {
+  font-weight: 400;
+  color: #377780;
+}
+.buttonW {
+  width: 180px;
+  height: 40px;
+  background-color: #377780;
+  border: none;
+}
+.buttonB {
+  width: 180px;
+  height: 40px;
+  background-color: #ebebeb;
+  border: none;
+  margin-left: 20px;
+  color: #377780;
+}
